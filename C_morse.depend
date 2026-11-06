@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1793957980 source:c:\users\hp\onedrive\desktop\j1\c_morse\ft_morse_vers_texte.c
+	"morse.h"
+	<unistd.h>
+
+1793958019 source:c:\users\hp\onedrive\desktop\j1\c_morse\ft_texte_vers_morse.c
+	"morse.h"
+	<unistd.h>
+
+1793958063 source:c:\users\hp\onedrive\desktop\j1\c_morse\main.c
+	<unistd.h>
+	"morse.h"
+
+1793958114 source:c:\users\hp\onedrive\desktop\j1\c_morse\table_morse.c
+	"morse.h"
+
+1793958143 c:\users\hp\onedrive\desktop\j1\c_morse\morse.h
+
